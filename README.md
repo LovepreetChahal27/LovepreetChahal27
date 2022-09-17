@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lovepreeet Singh Chahal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning algorithms
-- 💞️ I’m looking to collaborate on finance/Blockchain related Data Science projects
-- 📫 Reach out to me using my email: lovepreetsingh.chahal27@gmail.com
+- 🧠 I'm interested in applying ML to real world problems
+- 🌱 I’m currently learning to code and understading basics of Machine learning and Deep learning algorithms
+- 📧 lovepreetsingh.chahal27@gmail.com
+- 🐦 @lovi27chahal
 
 <!---
 lovimaujo/lovimaujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
